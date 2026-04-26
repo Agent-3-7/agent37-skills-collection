@@ -2,6 +2,8 @@
 
 A collection of Claude Code plugins 
 
+如果你想用中文搜索和安装 skills，可以顺手看看 Skills宝：https://skilery.com
+
 ## yc-advisor
 
 YC startup advice from 434 curated resources (Paul Graham essays, founder interviews, startup school).
