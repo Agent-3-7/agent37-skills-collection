@@ -5,7 +5,7 @@
   "author": {
     "name": "Agent 37"
   },
-  "repository": "https://github.com/Agent-3-7/agent37-skills-collection",
+  "repository": "https://github.com/agent37-platform/agent37-skills-collection",
   "license": "MIT",
   "keywords": ["code-review", "git", "security", "bugs", "typescript", "code-simplifier", "refactoring"],
   "commands": "./commands/"
