@@ -7,7 +7,7 @@ A collection of Claude Code plugins
 YC startup advice from 434 curated resources (Paul Graham essays, founder interviews, startup school).
 
 ```bash
-/plugin marketplace add Agent-3-7/agent37-skills-collection
+/plugin marketplace add agent37-platform/agent37-skills-collection
 /plugin install yc-advisor@agent37-skills
 ```
 
@@ -20,7 +20,7 @@ You can interact with this live at https://www.agent37.com/yc
 Code review for uncommitted local changes. Inspired by Anthropic's official `code-review` plugin which reviews PRs - this one reviews your local staged/unstaged changes before you commit.
 
 ```bash
-/plugin marketplace add Agent-3-7/agent37-skills-collection
+/plugin marketplace add agent37-platform/agent37-skills-collection
 /plugin install local-review@agent37-skills
 ```
 
@@ -33,7 +33,7 @@ Reviews for: bugs, security vulnerabilities (OWASP top 10), CLAUDE.md compliance
 Summarize the current session into a compact "prompt request" one-pager for a pull request: every ask and decision folded into one `User:` block, plus an `Assistant:` block summarizing what was built.
 
 ```bash
-/plugin marketplace add Agent-3-7/agent37-skills-collection
+/plugin marketplace add agent37-platform/agent37-skills-collection
 /plugin install generate-prompt-request@agent37-skills
 ```
 
